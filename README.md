@@ -74,6 +74,23 @@ The application provides both video upload and live processing capabilities. Use
 * Accessibility support
 
 ---
+## Application Screenshots
+
+### Home Page
+<img width="1088" height="558" alt="Screenshot 2026-06-17 164617" src="https://github.com/user-attachments/assets/b10bc1f1-6d6c-4ace-a4c4-2738477032e8" />
+
+### Live Detection
+<img width="876" height="720" alt="Screenshot 2026-06-17 171722" src="https://github.com/user-attachments/assets/1f0a4fdf-991e-4978-98b8-6482bb915779" />
+<img width="1180" height="362" alt="Screenshot 2026-06-17 165115" src="https://github.com/user-attachments/assets/fd4cbc18-7d2b-42c4-be60-f418de5bfb17" />
+
+### Upload Video
+<img width="544" height="383" alt="Screenshot 2026-06-17 165132" src="https://github.com/user-attachments/assets/77a4a729-90bf-4e9d-9c04-211ae4778d8d" />
+
+### Upload Result
+<img width="560" height="422" alt="Screenshot 2026-06-17 165203" src="https://github.com/user-attachments/assets/7bd98932-059b-4242-8dcd-346cfc6dc28f" />
+
+### No Speech Detected
+<img width="558" height="392" alt="Screenshot 2026-06-17 165219" src="https://github.com/user-attachments/assets/522c6758-f600-4d8d-981a-854753b35976" />
 
 ## Author
 
